@@ -28,6 +28,9 @@ members = [
 
 resolver = "2"
 
+[workspace.metadata.orml]
+crates-version = "0.13.0"
+
 [profile.dev]
 split-debuginfo = "unpacked"
 
